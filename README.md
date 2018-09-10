@@ -6,11 +6,15 @@ Code to produce a popular children's nursery rhyme was produced by a web agency 
 
 No documentation or tests were provided by the previous developer.
 
-*Refactor the code to allow for the customer's needs. Remember: refactoring can only be done in the presence of tests that are passing, and after refactoring the tests still pass!*
+**Refactor the code to allow for the customer's needs.**
 
-A *Java* version can be found in the [java](java) folder;
+**Remember: refactoring can only be done in the presence of tests that are passing, and after refactoring the tests still pass!**
 
-A *PHP* version can be found in the [PHP](PHP) folder;
+# Source code
+
+A **Java** version can be found in the [java](java) folder;
+
+A **PHP** version can be found in the [PHP](PHP) folder;
 
 # Credits
 This code kata and exercise files are based on: [London Code Dojo](https://github.com/sleepyfox/code-dojo-39) and [repo](http://kata-log.rocks/sing-a-song-kata). LICENSE [here](https://github.com/sleepyfox/code-dojo-39/blob/master/LICENSE)
