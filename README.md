@@ -6,8 +6,8 @@ Code to produce a popular children's nursery rhyme was produced by a web agency 
 
 No documentation was provided by the previous developer and there is only one failing test :(
 
-**Refactor the code to allow for the customer's needs.**
-
+# Task
+Refactor the code to allow for the customer's needs.
 **Remember: refactoring can only be done in the presence of tests that are passing, and after refactoring the tests still pass!**
 
 # Source code
