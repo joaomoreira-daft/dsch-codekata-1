@@ -13,7 +13,7 @@ A *Java* version can be found in the [java](java) folder;
 A *PHP* version can be found in the [PHP](PHP) folder;
 
 # Credits
-This code kata and exercise files are based on: [London Code Dojo](https://github.com/sleepyfox/code-dojo-39) and [repo](http://kata-log.rocks/sing-a-song-kata). LICENSE [here](https://github.com/sleepyfox/code-dojo-39/blob/master/LICENSE)
+This code kata and exercise files are based on: [London Code Dojo](http://kata-log.rocks/sing-a-song-kata), [repo](https://github.com/sleepyfox/code-dojo-39) and license [here](https://github.com/sleepyfox/code-dojo-39/blob/master/LICENSE)
 Alterations were made to the source code.
 
 # License
