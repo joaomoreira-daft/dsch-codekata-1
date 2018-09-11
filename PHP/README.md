@@ -17,4 +17,4 @@ Requirements:
 example of how to run this source code:
 - run `composer install`
 - run `php src/index.php`, you should see the song being printed
-- run tests, run `php vendor/bin/phpunit tests/`
+- tests, run `php vendor/bin/phpunit tests/`
