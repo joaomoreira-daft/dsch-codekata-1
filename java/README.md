@@ -13,15 +13,10 @@ Refactor the code to allow for the customer's needs.
 ## Constraint
 TDD (Test Driven Development) style!
 
-## Source code
+## Java source code
+### Requirements:
+- have jdk installed in your machine (1.8)
+- have maven installed
 
-A **Java** version can be found in the [java](java) folder;
-
-A **PHP** version can be found in the [PHP](PHP) folder;
-
-## Credits
-This code kata and exercise files are based on: [London Code Dojo](http://kata-log.rocks/sing-a-song-kata), [repo](https://github.com/sleepyfox/code-dojo-39) and license [here](https://github.com/sleepyfox/code-dojo-39/blob/master/LICENSE)
-Alterations were made to the source code.
-
-## License
-The code samples are licensed under the CC-SA-NC-4.0 license, as shown in the [LICENSE](/LICENSE) file.
+### Example of how to run this source code:
+- Import this project into Intellij with the pom.xml and you should be able to run both the Main method and Tests with Intellij
