@@ -22,7 +22,7 @@ A **PHP** version can be found in the [PHP](PHP) folder;
 TODO: add javascript and maybe python?
 
 ## Credits
-This code kata and exercise files are based on: [London Code Dojo](http://kata-log.rocks/sing-a-song-kata), [repo](https://github.com/sleepyfox/code-dojo-39) and license [here](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/license.txt)
+This code kata and exercise files are based on: [London Code Dojo](http://kata-log.rocks/sing-a-song-kata), [repo](https://github.com/sleepyfox/code-dojo-39) and license [here](https://github.com/sleepyfox/code-dojo-39/blob/master/LICENSE)
 Alterations were made to the source code.
 
 ## License
